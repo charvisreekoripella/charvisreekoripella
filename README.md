@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Charvisree, a current undergraduate student at University of Texas at Dallas pursuing a degree in Computer Science. I'm particularly interested in full-stack web dev, cloud, API design, system architecture, and all sorts of branches of software development that I've come across. I’m passionate about software development and problem-solving, with hands-on experience in Python, Java, JavaScript, SQL, and C/C++.
+I'm Charvisree, a current undergraduate student at the University of Texas at Dallas pursuing a degree in Computer Science. I'm particularly interested in full-stack web dev, cloud, API design, system architecture, and all sorts of branches of software development that I've come across. I’m passionate about software development and problem-solving, with hands-on experience in Python, Java, JavaScript, SQL, and C/C++.
 
 ## 📌 Currently
 - 🚀 **Member of SWE Match:** working with a multidisciplinary engineering team to develop PAIGE, a tangible productivity assistant that uses voice recognition and biometric sensors to help users manage time, tasks, schedules, and stress levels. PAIGE integrates with Google Cloud for data storage and serves as a distraction-free alternative to smartphones
